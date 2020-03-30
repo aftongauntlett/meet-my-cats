@@ -6,6 +6,8 @@ h1, h2 {
 p {
     font-size: 25px;
     color: rgb(32, 32, 32);
+    padding: 1%;
+    align-items: center;
 }
 
 .serif {
@@ -22,4 +24,8 @@ p {
 
 .center {
     text-align: center;
+}
+
+.mycarousel {
+    width: 30%;
 }
